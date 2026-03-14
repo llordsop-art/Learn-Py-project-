@@ -1,26 +1,40 @@
-## 🏆 Day 3 Completed! / 3. Gün Tamamlandı!
-![100 Days of Code](https://img.shields.io/badge/100_Days_of_Code-Day%203-blueviolet?style=for-the-badge&logo=python)
+# 🏝️ Learn-Py-project- 🐍
 
-Bu bölümde Python'da karar yapılarını ve mantıksal operatörleri öğrendim.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Progress-30%25-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Days_Completed-3-green?style=for-the-badge" />
+</p>
 
-### 📚 What I Learned (Neler Öğrendim?)
-- [x] **Control Flow:** `if`, `else`, `elif` yapıları.
-- [x] **Mathematical Operations:** Modulo (`%`) operatörü ile tek/çift sayı kontrolü.
-- [x] **Nested Logic:** İç içe geçmiş koşullu ifadeler.
-- [x] **Logical Operators:** `and`, `or`, `not` kullanımı.
-
-### 💻 Projects Built (Geliştirilen Projeler)
-1. **BMI Calculator 2.0:** Vücut kitle indeksine göre yorum yapan program.
-2. **Leap Year Checker:** Artık yıl hesaplayıcı.
-3. **Pizza Order Program:** Seçimlere göre fiyat hesaplayan kasa sistemi.
-4. **Treasure Island:** Görseldeki akış şemasına dayalı metin tabanlı macera oyunu. 🏝️
+### 🌟 Project Mission / Proje Misyonu
+> **EN:** Building a rock-solid foundation in Python, one day at a time. Documenting every logic, every bug, and every success.
+> 
+> **TR:** Her gün yeni bir adım atarak Python'da kaya gibi sağlam bir temel oluşturuyorum. Her mantığı, her hatayı ve her başarıyı belgeliyorum.
 
 ---
 
-### 📊 Progress Tracker (İlerleme Takibi)
-| Section | Status | Badge |
-| :--- | :---: | :--- |
-| Day 1: Variables | ✅ | ![Done](https://img.shields.io/badge/-Success-brightgreen) |
-| Day 2: Data Types | ✅ | ![Done](https://img.shields.io/badge/-Success-brightgreen) |
-| Day 3: Control Flow | ✅ | ![Done](https://img.shields.io/badge/-Success-brightgreen) |
-| Day 4: Randomization | ⏳ | ![Pending](https://img.shields.io/badge/-Waiting-lightgrey) |
+### 📊 Course Progress / Ders İlerleme Durumu
+
+| Day / Gün | Topic / Konu | Status / Durum | Detail / Detay |
+| :---: | :--- | :---: | :--- |
+| 01 | Variables & Printing | ✅ | [Explore Day 1](./Day-01/) |
+| 02 | Data Types & Formatting | ✅ | [Explore Day 2](./Day-02/) |
+| 03 | Control Flow & Logic | ✅ | [Explore Day 3](./Day-03/) |
+| 04 | Randomization & Lists | ⏳ | *Coming Soon* |
+
+---
+
+### 🛠️ Key Skills Unlocked / Kazanılan Anahtarlar
+* 🔑 **Logic:** Understanding how programs "think" with `if/else`.
+* 🔑 **Data:** Handling numbers, strings, and types correctly.
+* 🔑 **Automation:** Creating tools like Tip Calculators and BMI tools.
+
+---
+
+### 📬 Connect with me / İletişim
+<p align="left">
+<a href="SENIN_LINKIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="SENIN_LINKIN"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
