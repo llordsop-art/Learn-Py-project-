@@ -1,34 +1,26 @@
-# 🏝️ Learn-Py-project- 🐍
+## 🏆 Day 3 Completed! / 3. Gün Tamamlandı!
+![100 Days of Code](https://img.shields.io/badge/100_Days_of_Code-Day%203-blueviolet?style=for-the-badge&logo=python)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Status](https://img.shields.io/badge/Status-Learning-green?style=for-the-badge)
+Bu bölümde Python'da karar yapılarını ve mantıksal operatörleri öğrendim.
 
----
+### 📚 What I Learned (Neler Öğrendim?)
+- [x] **Control Flow:** `if`, `else`, `elif` yapıları.
+- [x] **Mathematical Operations:** Modulo (`%`) operatörü ile tek/çift sayı kontrolü.
+- [x] **Nested Logic:** İç içe geçmiş koşullu ifadeler.
+- [x] **Logical Operators:** `and`, `or`, `not` kullanımı.
 
-### 🌟 Project Goal / Proje Amacı
-> **EN:** The main goal of this project is to build a solid foundation in Python programming and document every step of the learning process.
-> 
-> **TR:** Bu projenin temel amacı, Python programlamada sağlam bir temel oluşturmak ve öğrenme sürecinin her adımını belgelemektir.
-
----
-
-### 🎮 Current Game: Treasure Island (Hazine Adası)
-Bu projede şu an bir macera oyunu üzerinde çalışıyorum.
-
-| Decision (Karar) | Safe (Güvenli) | Danger (Tehlike) |
-| :--- | :--- | :--- |
-| **Direction** | ⬅️ Left (Sol) | ➡️ Right (Sağ) |
-| **Action** | ⏳ Wait (Bekle) | 🏊 Swim (Yüz) |
-| **Door** | 🟡 Yellow (Sarı) | 🔴 Red / 🔵 Blue |
+### 💻 Projects Built (Geliştirilen Projeler)
+1. **BMI Calculator 2.0:** Vücut kitle indeksine göre yorum yapan program.
+2. **Leap Year Checker:** Artık yıl hesaplayıcı.
+3. **Pizza Order Program:** Seçimlere göre fiyat hesaplayan kasa sistemi.
+4. **Treasure Island:** Görseldeki akış şemasına dayalı metin tabanlı macera oyunu. 🏝️
 
 ---
 
-### 🛠️ Skills I'm Building (Geliştirdiğim Beceriler)
-- [x] Control Flow (if / else)
-- [x] Logical Operators
-- [ ] Functions
-- [ ] Loops
-
----
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+### 📊 Progress Tracker (İlerleme Takibi)
+| Section | Status | Badge |
+| :--- | :---: | :--- |
+| Day 1: Variables | ✅ | ![Done](https://img.shields.io/badge/-Success-brightgreen) |
+| Day 2: Data Types | ✅ | ![Done](https://img.shields.io/badge/-Success-brightgreen) |
+| Day 3: Control Flow | ✅ | ![Done](https://img.shields.io/badge/-Success-brightgreen) |
+| Day 4: Randomization | ⏳ | ![Pending](https://img.shields.io/badge/-Waiting-lightgrey) |
