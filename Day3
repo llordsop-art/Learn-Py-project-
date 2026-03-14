@@ -1,0 +1,15 @@
+# 📅 Day 3: Control Flow & Logic / Kontrol Akışı ve Mantık
+
+### 🌟 Overview / Genel Bakış
+**EN:** Learning how to make programs take decisions based on conditions.
+**TR:** Programların koşullara göre karar vermesini sağlamayı öğrendim.
+
+### 📚 What I Learned / Neler Öğrendim?
+* **Conditional Statements (Koşullu İfadeler):** `if`, `elif`, and `else`.
+* **Logical Operators (Mantıksal Operatörler):** Using `and`, `or`, and `not`.
+* **Modulo Operator (Modulo):** Finding remainders with `%`.
+* **Nested Logic (İç İçe Mantık):** Creating complex decision trees.
+
+### 🚀 Project: Treasure Island / Hazine Adası 🏝️
+**EN:** A text-based adventure game where your choices determine your fate.
+**TR:** Seçimlerinizin kaderinizi belirlediği metin tabanlı bir macera oyunu.
