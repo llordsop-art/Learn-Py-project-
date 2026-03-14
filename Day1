@@ -1,0 +1,15 @@
+# 📅 Day 1: Variables & Printing / Değişkenler ve Yazdırma
+
+### 🌟 Overview / Genel Bakış
+**EN:** I started my journey by learning how to output data to the console and how to store information using variables.
+**TR:** Yolculuğuma konsola veri yazdırmayı ve değişkenleri kullanarak bilgileri saklamayı öğrenerek başladım.
+
+### 📚 What I Learned / Neler Öğrendim?
+* **Printing (Yazdırma):** Using `print()` to display messages.
+* **Input (Girdi):** Capturing user data with `input()`.
+* **String Manipulation (Metin İşlemleri):** Merging strings and finding text length.
+* **Variables (Değişkenler):** Naming and managing data in memory.
+
+### 🚀 Project: Band Name Generator / Grup İsmi Oluşturucu
+**EN:** A script that combines your city and pet's name to create a cool band name.
+**TR:** Şehir isminizle evcil hayvanınızın adını birleştirerek havalı bir grup ismi oluşturan senaryo.
