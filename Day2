@@ -1,0 +1,15 @@
+# 📅 Day 2: Data Types & Manipulation / Veri Tipleri ve İşlemler
+
+### 🌟 Overview / Genel Bakış
+**EN:** Diving into Python's primitive data types and performing mathematical calculations.
+**TR:** Python'ın temel veri tiplerine dalarak matematiksel hesaplamalar gerçekleştirdim.
+
+### 📚 What I Learned / Neler Öğrendim?
+* **Data Types (Veri Tipleri):** Strings, Integers, Floats, and Booleans.
+* **Type Casting (Tip Dönüşümü):** Converting one data type to another (e.g., `str` to `int`).
+* **Math Operations (Matematiksel İşlemler):** Power ($**$), division, and priority rules.
+* **F-Strings:** A modern way to format strings easily.
+
+### 🚀 Project: Tip Calculator / Bahşiş Hesaplayıcı
+**EN:** A calculator that splits the total bill among friends including the tip.
+**TR:** Toplam hesabı bahşişle birlikte arkadaşlar arasında paylaştıran bir hesaplayıcı.
