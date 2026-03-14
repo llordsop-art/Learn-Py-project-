@@ -17,9 +17,9 @@
 
 | Day / Gün | Topic / Konu | Status / Durum | Detail / Detay |
 | :---: | :--- | :---: | :--- |
-| 01 | Variables & Printing | ✅ | [Explore Day 1](./Day-01/) |
-| 02 | Data Types & Formatting | ✅ | [Explore Day 2](./Day-02/) |
-| 03 | Control Flow & Logic | ✅ | [Explore Day 3](./Day-03/) |
+| 01 | Variables & Printing | ✅ | [Explore Day 1](./Day1/) |
+| 02 | Data Types & Formatting | ✅ | [Explore Day 2](./Day2/) |
+| 03 | Control Flow & Logic | ✅ | [Explore Day 3](./Day3/) |
 | 04 | Randomization & Lists | ⏳ | *Coming Soon* |
 
 ---
@@ -34,7 +34,7 @@
 ### 📬 Connect with me / İletişim
 <p align="left">
 <a href="SENIN_LINKIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="SENIN_LINKIN"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="SENIN_LINKIN"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 ---
